@@ -1,4 +1,4 @@
-# VisionTransformerPaperCollection
+# vision_transformer_paper_collection
 
 ## 2022
 ### MaxViT Multi-Axis Vision Transformer ECCV [[paper]](https://arxiv.org/abs/2204.01697) [[code]](https://github.com/google-research/maxvit) [[timm code]](https://github.com/rwightman/pytorch-image-models)
