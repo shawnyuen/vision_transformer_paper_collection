@@ -2,6 +2,7 @@
 
 ## 2022
 ### MaxViT Multi-Axis Vision Transformer ECCV [[paper]](https://arxiv.org/abs/2204.01697) [[code]](https://github.com/google-research/maxvit) [[timm code]](https://github.com/rwightman/pytorch-image-models)
+### MetaFormer Baselines for Vision arXiv 2022
 
 ## 2021
 ### (UN-EPT) A Unified Efficient Pyramid Transformer for Semantic Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2107.14209)
