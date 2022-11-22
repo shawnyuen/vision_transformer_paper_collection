@@ -11,6 +11,7 @@
 ### DS-TransUNet Dual Swin Transformer U-Net for Medical Image Segmentation arXiv 2021 [[paper]]()
 ### P2T Pyramid Pooling Transformer for Scene Understanding arXiv 2021 [[paper]]()
 ### PVTv2 Improved Baselines with Pyramid Vision Transformer arXiv 2021 [[paper]]()
+### Swin Transformer Hierarchical Vision Transformer Using Shifted Windows ICCV 2021 [[paper]]()
 
 ## 2019
 ### Axial Attention in Multidimensional Transformers arXiv 2019 [[paper]](https://arxiv.org/abs/1912.12180)
