@@ -4,6 +4,7 @@
 ### A Survey on Vision Transformer IEEE TPAMI 2023 [[paper]](https://ieeexplore.ieee.org/document/9716741)
 
 ## 2022
+### A-ViT Adaptive Tokens for Efficient Vision Transformer CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html) [[code]](https://github.com/NVlabs/A-ViT)
 ### MaxViT Multi-Axis Vision Transformer ECCV [[arXiv paper]](https://arxiv.org/abs/2204.01697) [[code]](https://github.com/google-research/maxvit) [[timm code]](https://github.com/rwightman/pytorch-image-models)
 ### MetaFormer Baselines for Vision arXiv 2022
 ### What Makes for Good Tokenizers in Vision Transformer arXiv 2022 [[arXiv paper]](https://arxiv.org/abs/2212.11115)
