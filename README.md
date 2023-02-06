@@ -5,6 +5,7 @@
 
 ## 2023
 ### DilateFormer Multi-Scale Dilated Transformer for Visual Recognition IEEE TMM 2023 [[paper]](https://arxiv.org/abs/2302.01791) [[code]](https://github.com/JIAOJIAYUASD/dilateformer)
+### ShadowFormer Global Context Helps Image Shadow Removal AAAI 2023 [[paper]](https://arxiv.org/abs/2302.01650)
 
 ## 2022
 ### A-ViT Adaptive Tokens for Efficient Vision Transformer CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html) [[code]](https://github.com/NVlabs/A-ViT)
