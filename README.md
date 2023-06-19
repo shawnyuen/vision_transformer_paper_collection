@@ -9,6 +9,7 @@
 ### Full Contextural Attention for MUlti-resolution Transformers in Semantic Segmentation IEEE WACV 2023s
 ### LipsFormer - Introducing Lipschitz Continuity to Vision Transformers ICLR 2023 [[paper]](https://arxiv.org/abs/2304.09856)
 ### (STViT) Making Vision Transformers Efficient from A Token Sparsification View CVPR 2023 [[paper]](https://arxiv.org/abs/2303.08685)
+### SegViTv2 - Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers arXiv 2023
 ### ShadowFormer Global Context Helps Image Shadow Removal AAAI 2023 [[paper]](https://arxiv.org/abs/2302.01650)
 ### SwiftFormer - Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications arXiv 2023 [[paper]](https://arxiv.org/abs/2303.15446)
 "introduce a novel efficient additive attention mechanism"
@@ -17,6 +18,7 @@
 ### A-ViT Adaptive Tokens for Efficient Vision Transformer CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html) [[code]](https://github.com/NVlabs/A-ViT)
 ### MaxViT Multi-Axis Vision Transformer ECCV [[arXiv paper]](https://arxiv.org/abs/2204.01697) [[code]](https://github.com/google-research/maxvit) [[timm code]](https://github.com/rwightman/pytorch-image-models)
 ### MetaFormer Baselines for Vision arXiv 2022
+### SegViT - Semantic Segmentation with Plain Vision Transformers NeurIPS 2022
 ### Temporally Efficient Vision Transformer for Video Instance Segmentation CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Temporally_Efficient_Vision_Transformer_for_Video_Instance_Segmentation_CVPR_2022_paper.html) [[code]](https://github.com/hustvl/TeViT)
 ### Vision Transformer with Deformable Attention CVPR 2022
 ### What Makes for Good Tokenizers in Vision Transformer arXiv 2022 [[arXiv paper]](https://arxiv.org/abs/2212.11115)
